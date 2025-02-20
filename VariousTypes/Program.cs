@@ -19,12 +19,17 @@ namespace VariousTypes
 
             float z = 1.5f;
 
+            // Add a boolean with true value
+
+            bool b = true;
+ 
             // Print messages
             Console.WriteLine("Hello LP1!");
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(z);
-
+            Console.WriteLine(b);
+        
 
         }
     }
