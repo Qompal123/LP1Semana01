@@ -21,15 +21,19 @@ namespace VariousTypes
 
             // Add a boolean with true value
 
-            bool b = true;
+            bool t = true;
+
+            // Add a boolean with false value
+
+            bool f = false;
  
             // Print messages
             Console.WriteLine("Hello LP1!");
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(z);
-            Console.WriteLine(b);
-        
+            Console.WriteLine(t);
+            Console.WriteLine(f);
 
         }
     }
