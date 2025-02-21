@@ -17,10 +17,16 @@ namespace AskForInput
 
             string usrnumb2 = Console.ReadLine();
 
+            //Conversion
+
+            int i = int.Parse(usrnumb);
+
+            float f = float.Parse(usrnumb2);
+
 
             //User number display
 
-            Console.WriteLine(usrnumb);
+            Console.WriteLine($"{i + f}");
 
 
 
