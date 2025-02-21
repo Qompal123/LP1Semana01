@@ -32,7 +32,7 @@ namespace ManyStrings
             Console.WriteLine(sc);
             Console.WriteLine(sy);
             Console.WriteLine(sx);
-            Console.WriteLine(si);
+            Console.WriteLine(si);  
 
         }
     }

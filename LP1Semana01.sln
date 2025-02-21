@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyStrings", "ManyStrings\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousTypes", "VariousTypes\VariousTypes.csproj", "{2C247C7D-789A-4783-A554-F9FAEC94F061}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smiley", "Smiley\Smiley.csproj", "{F1145AF9-A2A5-4CA8-8D47-3C6BD97300FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{2C247C7D-789A-4783-A554-F9FAEC94F061}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C247C7D-789A-4783-A554-F9FAEC94F061}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C247C7D-789A-4783-A554-F9FAEC94F061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1145AF9-A2A5-4CA8-8D47-3C6BD97300FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1145AF9-A2A5-4CA8-8D47-3C6BD97300FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1145AF9-A2A5-4CA8-8D47-3C6BD97300FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1145AF9-A2A5-4CA8-8D47-3C6BD97300FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
